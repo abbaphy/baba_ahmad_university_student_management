@@ -200,5 +200,5 @@ Password: student
 ## For more info Contact
 
 - Phone Number: 08036337141 
-        0r via 
+        
 - Email: abbaphy@gmail.com
